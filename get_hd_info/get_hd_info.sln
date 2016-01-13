@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "get_hd_info", "get_hd_info\get_hd_info.vcproj", "{471A80CC-E2A3-451B-A007-B8F1DB94ED03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{471A80CC-E2A3-451B-A007-B8F1DB94ED03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{471A80CC-E2A3-451B-A007-B8F1DB94ED03}.Debug|Win32.Build.0 = Debug|Win32
+		{471A80CC-E2A3-451B-A007-B8F1DB94ED03}.Release|Win32.ActiveCfg = Release|Win32
+		{471A80CC-E2A3-451B-A007-B8F1DB94ED03}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
